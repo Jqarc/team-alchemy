@@ -6,16 +6,8 @@ public interface List {
 	public Object delete (int index);
 	public int indexOf (Object obj);
 	
-	public default void printMessage() {
-		hello();
+	public static void list() {
+		System.out.println("Hello from list interface");
 	}
-	
-	private void hello() {
-		System.out.println("hello from List");
-	}
-	
-	public static List emptyList() {
-		// TODO
-		return null;
-	}
+	Object remove(int index);
 }
