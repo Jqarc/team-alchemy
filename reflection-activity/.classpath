@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="C:/Users/Jose/Downloads/reflection-exercise.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Jose/OneDrive/Documents/GitHub/team-alchemy/reflection-activity/reflection-exercise.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
